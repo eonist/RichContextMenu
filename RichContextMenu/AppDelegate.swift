@@ -16,11 +16,3 @@ extension AppDelegate {
       return win
    }
 }
-class ViewController: UIViewController {
-   override func viewDidLoad() {
-      super.viewDidLoad()
-      view = View()
-      view.backgroundColor = .orange
-   }
-   override var prefersStatusBarHidden: Bool { return true }
-}
