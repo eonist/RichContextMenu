@@ -1,11 +1,3 @@
-//
-//  RichContextMenuTests.swift
-//  RichContextMenuTests
-//
-//  Created by eon on 02/06/2020.
-//  Copyright © 2020 Passbook. All rights reserved.
-//
-
 import XCTest
 
 class RichContextMenuTests: XCTestCase {
